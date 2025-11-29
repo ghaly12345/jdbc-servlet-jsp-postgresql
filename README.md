@@ -36,7 +36,24 @@ Ensure you have the following installed and configured on your local machine:
 4.  **Git**
 
 ---
+## ☁️ Setting up Remote Database (Aiven)
 
+Since this project uses a cloud database, follow these steps to set up your PostgreSQL instance:
+
+1.  **Create Account:** Go to [Aiven.io](https://aiven.io/) and sign up for a free trial or free tier account.
+2.  **Create Service:**
+    * Click **Create Service**.
+    * Select **PostgreSQL**.
+    * Choose a Cloud Provider (e.g., Google Cloud, AWS) and Region.
+    * Select the **Free Plan** (if available) or the smallest Hobbyist tier.
+    * Name your service (e.g., `student-db`).
+3.  **Get Connection Details:**
+    * Once the service status is "Running", click on the service name.
+    * Look for the **Connection Information** tab.
+    * Click on Quick Connect and select Connect with dropdown as - Java, Copy the **Service URI** or note down the *Host, Port, User,* and *Password*.
+    * *Note:* Aiven requires SSL. You will need to add `?sslmode=require` to your JDBC URL later. if you direct copy from connection detail tab without choosing java.
+
+---
 ## 🚀 Setup & Configuration
 
 ### 1. Maven Dependencies (`pom.xml`)
